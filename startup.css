@@ -1,0 +1,38 @@
+.center {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: times new roman;
+	margin-top: 18%;
+}
+#button {
+	color: white;
+	border-radius: 10px;
+	height: 40px;
+	width: 140px;
+	font-size: 20px;
+	border: none;
+	display: inline;
+	background-color: #2E8B57;
+	padding: 20px 40px 20px 40px;
+}
+.two {
+	margin: 0px;
+	background-color: #ADD8E6;
+}
+.one {
+		margin: 0px;
+	background-image: url("https://wallpaperplay.com/walls/full/7/f/d/57998.jpg");
+	background-repeat: no-repeat;
+}
+.sign {
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 42.5%;
+	max-width: 15%;
+	border: 1px solid #999;
+	padding: 40px;
+	border-radius: 10px;
+}
+
